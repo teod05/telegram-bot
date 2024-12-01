@@ -1,0 +1,69 @@
+2024-11-29 15:42:59,820 - User ID: 1345237125, Message: wassup gang
+2024-11-29 15:43:00,588 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-29 15:43:11,438 - User ID: 1345237125, Message: ight bet
+2024-11-29 15:43:12,245 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-29 15:43:30,169 - User ID: 1345237125, Message: how expensive in the open ai api for 3.5 turbo
+2024-11-29 15:43:31,211 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-29 15:43:43,237 - User ID: 1345237125, Message: eazy
+2024-11-29 15:43:44,337 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-01 15:45:06,891 - User ID: 1345237125, Message: Hello
+2024-12-01 15:45:08,333 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-01 16:12:24,679 - User ID: 1345237125, Message: Hello
+2024-12-01 16:12:24,683 - Error: no such table: users
+2024-12-01 16:12:32,592 - User ID: 1345237125, Message: Hi
+2024-12-01 16:12:32,593 - Error: no such table: users
+2024-12-01 16:13:42,921 - User ID: 1345237125, Message: Hello
+2024-12-01 16:13:44,244 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-01 16:13:57,040 - User ID: 1345237125, Message: Just trying you
+2024-12-01 16:13:59,714 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-01 16:17:18,808 - User ID: 1345237125, Message: How are you?
+2024-12-01 16:17:19,783 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-01 16:17:34,483 - User ID: 1345237125, Message: Just seeing whats possible with you
+2024-12-01 16:17:35,749 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-01 16:18:02,402 - User ID: 1345237125, Message: Easy
+2024-12-01 16:18:03,226 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-01 16:18:14,548 - User ID: 1345237125, Message: Have a nice day
+2024-12-01 16:18:15,435 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-01 17:24:33,314 - User ID: 1345237125, Message: Whats going in the world?
+2024-12-01 17:24:35,164 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-01 17:31:19,251 - User ID: 1345237125, Message: Tell me a joke
+2024-12-01 17:31:19,251 - User ID: 1345237125, Message: Hello?
+2024-12-01 17:34:39,551 - User ID: 1345237125, Message: Hi
+2024-12-01 17:36:25,466 - User ID: 1345237125, Message: Hi
+2024-12-01 17:36:26,334 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-01 17:36:33,831 - User ID: 1345237125, Message: Wassup
+2024-12-01 17:36:34,411 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-01 17:36:58,203 - User ID: 1345237125, Message: What did I talk about in the beginning of the chat?
+2024-12-01 17:36:58,921 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-01 17:37:18,169 - User ID: 1345237125, Message: Do you have a database where you store history?
+2024-12-01 17:37:19,007 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-01 17:50:32,907 - User ID: 1345237125, Message: Hey
+2024-12-01 17:50:33,728 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-01 17:50:41,465 - User ID: 1345237125, Message: My name is Benediktas
+2024-12-01 17:50:42,192 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-01 17:50:45,912 - User ID: 1345237125, Message: Remember that okay?
+2024-12-01 17:50:47,037 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-01 18:14:20,333 - User ID: 1345237125, Message: Hello
+2024-12-01 18:14:21,183 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-01 18:14:39,584 - User ID: 1345237125, Message: How is math related to programming?
+2024-12-01 18:15:58,449 - User ID: 1345237125, Message: 2 x 2
+2024-12-01 18:17:04,480 - User ID: 1345237125, Message: Shehs
+2024-12-01 18:21:13,441 - User ID: 1345237125, Message: Hey
+2024-12-01 18:21:57,898 - User ID: 1345237125, Message: Wwhy
+2024-12-01 18:21:58,719 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-01 18:22:12,451 - User ID: 1345237125, Message: What did I ask last time?
+2024-12-01 18:22:13,154 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-01 18:22:41,417 - User ID: 1345237125, Message: What did I ask you in the beginning of the conversation?
+2024-12-01 18:22:42,087 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-01 18:23:40,940 - User ID: 1799477687, Message: she p
+2024-12-01 18:23:41,938 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-01 18:23:50,440 - User ID: 1799477687, Message: hey
+2024-12-01 18:23:51,037 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-01 18:24:52,797 - User ID: 1799477687, Message: who are you
+2024-12-01 18:24:53,464 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-01 18:25:03,442 - User ID: 1799477687, Message: what dus I just ask
+2024-12-01 18:25:04,264 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-01 18:35:45,286 - User ID: 1345237125, Message: Hi
+2024-12-01 18:35:47,217 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-12-01 18:36:00,720 - User ID: 1345237125, Message: What did I ask in the beginning of the conversation?
+2024-12-01 18:36:01,437 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
